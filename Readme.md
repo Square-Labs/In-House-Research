@@ -5,7 +5,7 @@
 - 📫 How to reach me [more info soon]
 
 
-<ins>**Read our in-house research here:**</ins>
+# Read our in-house research here:
 
 [Next Chapter in Qi Wars - The Polygon Alliance](https://polygondefi.substack.com/p/next-chapter-in-the-qi-wars-the-polygon)
 
