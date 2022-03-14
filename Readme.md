@@ -44,6 +44,8 @@
 
 [Is DeFi the Future of Payment?](https://polygondefi.substack.com/p/is-defi-the-future-of-payment) - As consumers and merchants grow weary of credit card fees and slow processing times, DeFi payment systems are increasingly becoming able to diversify consumer payment options.  Payment systems like Alchemy and Solana Pay are stepping to the plate to provide safe, secure payments on lightning quick blockchains.  But what implementational issues do they face?  Is large-scale adoption even possible?
 
+[Can NFTs Revitalize DeFi this Cycle?](https://polygondefi.substack.com/p/can-nfts-revitalize-this-defi-cycle?s=w) - The DeFi and NFT communities have kept to themselves for the most part in recent history. However, in this current bear/crab market, the DeFi community may see the biggest innovations coming from the adoption of NFTs into DeFi protocols.
+
 
 <!---
 SquareLabsPolygon/SquareLabsPolygon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
