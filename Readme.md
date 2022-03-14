@@ -1,5 +1,6 @@
 # SQUARE LABS
 
+
 - 👋 Hi, we are @SquareLabsPolygon
 - 👀 We are interested in Decentralized Finance Technologies
 - 🌱 We are currently involved in engineering financial protocols
@@ -7,7 +8,7 @@
 - 📫 How to reach me [more info soon]
 
 
-# Read our in-house research here:
+## Read our in-house research here:
 
 [Next Chapter in Qi Wars - The Polygon Alliance](https://polygondefi.substack.com/p/next-chapter-in-the-qi-wars-the-polygon)
 
