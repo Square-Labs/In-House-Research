@@ -10,6 +10,8 @@
 
 ## Read our in-house research here:
 
+[A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278) - In this article we review more than twenty DeFi option protocols to bring you an in-depth research on contemporary on-chain options ecosystem. We discuss their pricing and collateral mechanisms along with risk-aversion tactics involved to keep the system stable.
+
 [Next Chapter in Qi Wars - The Polygon Alliance](https://polygondefi.substack.com/p/next-chapter-in-the-qi-wars-the-polygon)
 
 
@@ -22,7 +24,7 @@
 
 
 
-[Composability in DeFi](https://polygondefi.substack.com/p/composability-in-defi-)
+[Composability in DeFi](https://polygondefi.substack.com/p/composability-in-defi-) -  DeFi has grown significantly over the past few years, but what's enabled this growth? In this article we explore composability, consider some of its pros and cons, as well as discuss how money Legos can help in your DeFi journey.
 
 
 
